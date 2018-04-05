@@ -1,7 +1,18 @@
-# Spring-2018
-PSTAT 134/234: Statistical Data Science
+# PSTAT 134/234 - Statistical Data Science (Spring-2018)
 
-In case you are having trouble with course Jupyter notebook, you can use Binder to open notebooks!
+## Instructor: Sang-Yun Oh
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UCSB-PSTAT-134-234/Spring-2018/master)
+- Lectures: MW 11 am - 12:15 pm
 
+- Office: South Hall 5514
+
+- Office hours: Tuesday 4-6 pm
+
+
+## Teaching Assistant: Sergio Rodriguez 
+
+- Sections: F 9 - 9:50 am / 12 - 12:50 pm
+
+- Office: South Hall 6432-W
+
+- Office hours: Thursday 1-3 pm
