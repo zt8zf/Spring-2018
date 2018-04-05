@@ -1,7 +1,4 @@
-# PSTAT 134/234 - Statistical Data Science
-### Spring-2018
-
----
+# PSTAT 134/234 - Statistical Data Science (Spring-2018)
 
 ## Instructor: Sang-Yun Oh
 
