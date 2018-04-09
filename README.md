@@ -2,7 +2,7 @@
 
 ## Instructor: Sang-Yun Oh
 
-- Lectures: MW 11 am - 12:15 pm
+- Lectures: MW 11 am - 12:15 pm (SSMS 1303)
 
 - Office: South Hall 5514
 
@@ -11,7 +11,7 @@
 
 ## Teaching Assistant: Sergio Rodriguez 
 
-- Sections: F 9 - 9:50 am / 12 - 12:50 pm
+- Sections: F 9 - 9:50 am (SSMS 1302) / 12 - 12:50 pm (SSMS 1303)
 
 - Office: South Hall 6432-W
 
