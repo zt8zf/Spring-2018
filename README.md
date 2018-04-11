@@ -32,3 +32,7 @@
 - Assignment 1 in python, verify some known theoretical property empirically: e.g., a theorem, or statistical (or probability) model.
 
 - Readings and exploring!
+
+## April 16, 2018
+
+- Regular expression: https://regexone.com/lesson/introduction_abcs
