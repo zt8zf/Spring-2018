@@ -35,4 +35,5 @@
 
 ## April 16, 2018
 
-- Regular expression: https://regexone.com/lesson/introduction_abcs
+- Regular expression: https://regexone.com/lesson/introduction_abcs  
+  http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf
