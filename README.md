@@ -37,3 +37,5 @@
 
 - Regular expression: https://regexone.com/lesson/introduction_abcs  
   http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf
+
+- Data science article: http://www.pnas.org/content/114/33/8689
