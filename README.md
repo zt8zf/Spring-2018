@@ -17,6 +17,9 @@
 
 - Office hours: Thursday 1-3 pm
 
+## In-class chatroom:
+http://deadsimplechat.com/pstat-134-234
+
 ----
 
 ## April 11, 2018
@@ -32,3 +35,12 @@
 - Assignment 1 in python, verify some known theoretical property empirically: e.g., a theorem, or statistical (or probability) model.
 
 - Readings and exploring!
+
+## April 16, 2018
+
+- Regular expression: https://regexone.com/lesson/introduction_abcs  
+  http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf
+
+- Data science article: http://www.pnas.org/content/114/33/8689
+
+- Read Chapter 3 on Pandas
